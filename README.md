@@ -44,8 +44,12 @@ PC with LT Spice Software
 
 
 ## OUTPUTS:
-<img width="1233" height="486" alt="image" src="https://github.com/user-attachments/assets/4261608a-5440-4e31-a8d6-ce62ac215798" />
+INPUT WAVEFORM:
+<img width="1424" height="490" alt="Screenshot 2025-11-23 170636" src="https://github.com/user-attachments/assets/b6216519-606b-4450-ae75-f367e7c061f6" />
+OUTPUT WAVEFORM:
+<img width="1413" height="500" alt="image" src="https://github.com/user-attachments/assets/0739c127-02eb-43ea-9428-f29054bd5ceb" />
 
 
 ## RESULT:
-Thus the inverting amplifier was simulated and output verified.
+![WhatsApp Image 2025-11-23 at 17 04 05_f18e320e](https://github.com/user-attachments/assets/61cd4c15-149a-45e7-b6d9-0aed0b08119d)
+
